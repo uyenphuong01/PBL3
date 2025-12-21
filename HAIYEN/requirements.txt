@@ -1,0 +1,9 @@
+ultralytics
+opencv-python
+paddleocr
+paddlepaddle
+numpy
+torch
+torchvision
+flask
+flask-cors
